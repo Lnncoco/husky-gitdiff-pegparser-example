@@ -1,0 +1,12 @@
+{
+  "name": "husky-gitdiff-pegparser-example",
+  "description": "husky 实现 git 提交自定义校验",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "simple-git": "^3.20.0"
+  }
+}
